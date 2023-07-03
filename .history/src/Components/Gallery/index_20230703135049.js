@@ -34,7 +34,7 @@ const Gallery = () => {
                     <GalleryCard>
                         <GalleryIcon src={Icon5} />
                         <GalleryH2>Writing</GalleryH2>
-                        <GalleryP> I'm always striving to be a better writer and thinker. It's my way of learning how the world works. Check out some of my articles <a href="https://www.thedp.com/staff/andrew-lou" class="whartonLink">here</a>!</GalleryP>
+                        <GalleryP> Always striving to be a better writer and thinker. Check out some of my articles <a href="https://www.thedp.com/staff/andrew-lou" class="whartonLink">here</a>!</GalleryP>
                     </GalleryCard>
                 </GalleryWrapper>
             </GalleryContainer>
