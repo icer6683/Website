@@ -26,6 +26,24 @@ export const homeObjTwo = {
     lightTextDesc: true,
     topLine: 'Updates',
     headline: "Current",
+    description: "I'll be back soon with an update of life at Yale! ",
+    shape: false,
+    imgStart: false,
+    img: walking,
+    alt: 'Absorbed in Work',
+    dark: false,
+    primary: true,
+    darkText: false,
+    round: true,
+    show: 'none'
+}
+export const homeObjThree = {
+    id: 'updates',
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
+    topLine: 'Updates',
+    headline: "Current",
     description: "At Penn, I am a Cohort Director for Wharton Cohorts, a VP in the Wharton Undergraduate Distressed Investing Club and an opinion columnist for the Daily Pennsylvanian. Other clubs I'm involved with include the Wharton Investment and Trading Group, Wharton Asia Exchange and Penn Wharton China Summit. In addition, I have served as a teaching assistant for STAT 4710/5710: Modern Data Mining and research assistants for several professors at Penn. ",
     shape: false,
     imgStart: false,
@@ -38,7 +56,7 @@ export const homeObjTwo = {
     show: 'none'
 }
 
-export const homeObjThree = {
+export const homeObjFour = {
     id: 'updates',
     lightBg: false,
     lightText: true,

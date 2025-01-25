@@ -1,9 +1,10 @@
-#experiences{
+#experiences {
     padding-left: 30px;
     padding-right: 30px;
-    padding-bottom: 100px;
+    padding-bottom: 30px;
 }
-.topline{
+
+.topline {
     color: #01bf71;
     font-size: 16px;
     line-height: 16px;
@@ -14,7 +15,8 @@
     text-align: center;
     padding: 45px 0 0 0;
 }
-.title{
+
+.title {
     text-align: center;
     margin-bottom: 24px;
     font-size: 48px;
@@ -22,22 +24,22 @@
     font-weight: 700;
     color: #010606;
 
-    @media screen and (max-width: 480px){
+    @media screen and (max-width: 480px) {
         font-size: 32px;
     }
 }
 
-h3{
+h3 {
     padding-top: 0.25em;
 }
 
 .vertical-timeline-element-content {
     padding: 2rem 3em !important;
     box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25),
-    0 0.4em 1.25em 0 rgba(0, 0, 0, 0.15) !important;
+        0 0.4em 1.25em 0 rgba(0, 0, 0, 0.15) !important;
 }
 
-.vertical-timeline-element{
+.vertical-timeline-element {
     color: black;
 }
 
@@ -51,7 +53,7 @@ h3{
     font-family: 'Open Sans', sans-serif;
 }
 
-.buttonTime{
+.buttonTime {
     max-width: 195px;
     border-radius: 5px;
     padding: 0.5em 1em;
@@ -61,32 +63,32 @@ h3{
     text-decoration: none;
 }
 
-.workButton{
+.workButton {
     background: #06bf71;
 }
 
-.workButton:hover{
-    background:white;
+.workButton:hover {
+    background: white;
 }
 
-.schoolButton{
+.schoolButton {
     background: #65E4FF;
 }
 
-.schoolButton:hover{
-    background:white;
+.schoolButton:hover {
+    background: white;
 }
 
 .custom-line::before {
     background: #424242;
-  }
+}
 
 
 @media only screen and (max-width: 1700px) {
     .vertical-timeline-element-date {
-      display: block !important;
-      float: none !important;
-      color: rgb(44, 44, 44);
-      margin-top: 1.5em;
+        display: block !important;
+        float: none !important;
+        color: rgb(44, 44, 44);
+        margin-top: 1.5em;
     }
-  }
+}
