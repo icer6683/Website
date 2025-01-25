@@ -1,4 +1,4 @@
-.buttonMain{
+.buttonMain {
     width: 60px;
     height: 60px;
     background-color: white;
@@ -16,13 +16,12 @@
     padding: 5px;
 }
 
-.whartonLink{
+.yaleLink {
     color: #01bf71;
     text-decoration: none;
 }
 
-.buttonMain:hover{
+.buttonMain:hover {
     transition: all 0.2s ease-in-out;
     background-color: #01BF71;
 }
-

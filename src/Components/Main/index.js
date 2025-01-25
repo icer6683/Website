@@ -13,7 +13,7 @@ const HeroSection = ({ shape }) => {
                 <HeroH1><Typewriter
                     onInit={(typewriter) => {
                         typewriter
-                            .typeString("Hey there, nice to meet you!")
+                            .typeString("Hey there!")
                             .pauseFor(1000)
                             .deleteAll()
                             .typeString("I'm Andrew. ")
@@ -21,7 +21,7 @@ const HeroSection = ({ shape }) => {
                     }}
                 /></HeroH1>
                 <HeroP>
-                    Rising Senior at <a href="https://www.wharton.upenn.edu/" class="whartonLink">Wharton</a>.
+                    J.D Candidate at <a href="https://law.yale.edu/" class="yaleLink">Yale Law</a>.
                 </HeroP>
                 <HeroBtnMenu>
                     <a href="https://github.com/icer6683" className="buttonMain" target="_blank" rel="noreferrer"><i class="fab fa-github fa-2x button"></i></a>

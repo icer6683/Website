@@ -8,7 +8,7 @@ export const homeObjOne = {
     lightTextDesc: false,
     topLine: 'Welcome',
     headline: "Introduction",
-    description: "Great to see you here! I'm from Connecticut originally. I'm pursuing a dual degree between finance at Wharton and computer science at UPenn's Engineering school. \n\nIn my free time, you'll find me jamming to music, experimenting in the kitchen or learning new things. Welcome to my little corner of the Internet. ",
+    description: "Welcome to my little corner of the Internet! I'm currently a 1L student at Yale Law. In a past life, I studied finance and statistics at Wharton and concurrently completed a computer science master's with Penn Engineering. \n\n In my free time, you'll find me jamming to music, experimenting in the kitchen, hanging out in the gym or learning new things. Always happy to chat!",
     shape: false,
     imgStart: true,
     img: face,
